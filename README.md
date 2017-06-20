@@ -1,3 +1,3 @@
 # helloworld
 just a practice
-it seems goog!
+it seems good!
